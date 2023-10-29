@@ -1,4 +1,2 @@
 # Ignore .venv
 .venv
-# Ignore data folder with fonts.
-data
